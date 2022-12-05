@@ -1,0 +1,169 @@
+#up{
+    width: 80px;
+    height: 60px;
+    margin-top: 10px;
+    margin-left: 180px;
+    
+}
+.t1{
+    margin-left: 600px;
+    font-size:30px;
+}
+*{
+    padding: 0px;
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+    
+
+}
+.Nave {
+
+    border-radius: 3px;
+}
+.two{
+    font-size:50px;
+    margin-left:500px;
+}
+
+
+
+.Nave button{
+
+    width: 150px;
+    height: 70px;
+    color: #29d9d5;
+    border:2px solid  #29d9d5;
+    background-color: rgb(36, 13, 13);
+    border-radius: 25px;
+    font-size: 15px;
+
+    margin-left:240px;
+}
+.one{
+    background: url(https://i1.wp.com/www.indiaretailing.com/wp-content/uploads/2019/12/grofers-1.jpg?fit=681%2C400&ssl=1);
+    height:400px;
+    width:1525px;
+    
+}
+.review{
+    font-size:30px;
+    height: 50px;
+    width: 100px;
+    background-color: orangered;
+    color:antiquewhite;
+}
+.l h2{
+    color:black;
+    font-weight: bolder;
+    text-decoration: none;
+    padding:20px;
+    margin-top: 40px;
+}
+.t2{
+    margin-left: 650px;
+    font-size:30px;
+}
+.t3{
+    background: url(https://codingkarlo.com/static/homeimages/pic-1.png);
+    border-radius: 50%;
+    margin-left:540px;
+    height: 200px;
+    width: 200px;
+    
+}
+.t{
+    border: 10px solid #969696;
+}
+.two{
+    font-size:50px;
+    margin-left:500px;
+}
+.butt{
+    margin-left:700px;
+    font-size:10px;
+}
+.h h2{
+    color:black;
+    font-weight: bolder;
+    text-decoration: none;
+    padding:20px;
+    margin-top: 40px;
+}
+
+.NB{
+    border-bottom: 0.1px solid white;
+    position: fixed;
+
+    top: 0px;
+    right: 0px;
+    left: 0px;
+
+    width: 100vw;
+    height: 11vh;
+    background-color: white;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+
+    
+}
+
+
+
+.h h4{
+    padding:20px;
+}
+.C h2{
+    color:black;
+    font-weight: bolder;
+    text-decoration: none;
+    padding:20px;
+    margin-top: 40px;
+}
+.C span{
+    padding:20px;
+}
+
+
+.Nave span {
+    cursor: default;
+    color: black;
+    
+}
+
+.Nave a{
+    text-decoration: none;
+    margin: 10px;
+    color:black;
+    font-weight: bolder;
+    
+
+}
+
+.Nave a:hover{
+
+    color: #f2b54c;
+}
+
+
+
+
+
+.NB h1{
+    margin-right: 1400px;
+    color: black;
+    
+
+    
+}
+
+.Nave{
+    position: absolute;
+    margin-left: 600px;
+   width: 75%;
+}
+.l span{
+    padding:20px;
+ }
